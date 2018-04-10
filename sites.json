@@ -1,0 +1,85 @@
+{
+  "sites": {
+    "one": {
+      "key": 100,
+      "name": "West Philadelphia CareerLink",
+    },
+    "two": {
+      "key": 101,
+      "name": "Scott Miller",
+      "position": "Vice President & Chief Operations Officer",
+      "details": "",
+      "picture": "",
+    },
+    "three": {
+      "key": 102,
+      "name": "Hany Ahmed",
+      "position": "Client Services Manager",
+      "details": "",
+      "picture": "",
+    },
+    "four": {
+      "key": 103,
+      "name": "Chris Messina",
+      "position": "Senior Engineer",
+      "details": "",
+      "picture": "",
+    },
+    "five": {
+      "key": 104,
+      "name": "Ahmed Attalla",
+      "position": "Cloud Service Ninja",
+      "details": "",
+      "picture": "",
+    },
+    "six": {
+      "key": 105,
+      "name": "Dan Perez",
+      "position": "Senior Engineer",
+      "details": "",
+      "picture": "",
+    },
+    "seven": {
+      "key": 106,
+      "name": "Ahmad Elfull",
+      "position": "",
+      "details": "",
+      "picture": "",
+    },
+    "eight": {
+      "key": 107,
+      "name": "Sahar Elbaaly",
+      "position": "User/Tech Support",
+      "details": "",
+      "picture": "",
+    },
+    "nine": {
+      "key": 108,
+      "name": "Nick Miles",
+      "position": "User/Tech Support",
+      "details": "",
+      "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/22780377_10105774073088123_1716835022399900894_n.jpg?oh=5877cbce5d1878d57fac82078d1a674d&oe=5B0DA892",
+    },
+    "ten": {
+      "key": 109,
+      "name": "Alex Busch",
+      "position": "User/Tech Support",
+      "details": "",
+      "picture": "https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/18835646_10155202291021427_4982094179431869467_n.jpg?oh=3fd829f88aa11ebe2989633efa831fe5&oe=5B0A111E",
+    },
+    "eleven": {
+      "key": 110,
+      "name": "Keith Campbell",
+      "position": "Senior User/Tech Support",
+      "details": "",
+      "picture": "",
+    },
+    "twelve": {
+      "key": 111,
+      "name": "Fabian Valenzuela",
+      "position": "User/Tech Support",
+      "details": "",
+      "picture": "",
+    },
+  }
+}
